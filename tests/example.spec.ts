@@ -18,6 +18,6 @@ test('get started link', async ({ page }) => {
 });
 
 test('get started link', async ({ }) => {
- console.log("Code from user2 - updated by user1");
+ 
 });
 
